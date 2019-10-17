@@ -15,6 +15,7 @@
 ##### type 日历类型
 
 > 指定日历切换方式`<必填>`: 点击切换 || 滑动切换
+
 > default: `normal` (点击切换)
 
 - type: String
@@ -28,6 +29,7 @@
 ##### titleOpt 年月标题配置
 
 > 指定日历标题自定义配置`<可选>`
+
 > default: `xxxx年 xx月`
 
 - type: Object
@@ -60,6 +62,7 @@
 ##### weekOpt 七天周末标题配置
 
 > 指定七天周末标题自定义配置`<可选>`
+
 > default: `日, 一, 二, 三, 四, 五, 六`
 
 - type: Object
@@ -92,6 +95,7 @@
 ##### dayOpt 天的样式配置
 
 > 指定不同状态下天的自定义样式配置`<可选>`
+
 > default: `20 21` <font color=#00b6ba >22</font>`23 24` <font color=#00b6ba >25</font> `26`
 
 - type: Object
@@ -146,6 +150,7 @@
 ##### dotOpt 标记点的配置
 
 > 指定标记点的自定义配置`<可选>`
+
 > default: `20`<font color=#00b6ba >.</font>`22 23`<font color=red >.</font>`25 26`<font color=blue >.</font>
 
 - type: Arr
@@ -173,6 +178,7 @@
 ##### onSelectDay 天的点击事件
 
 > `天`点击后的回调 参数是点击的时间对象 包含`{年, 月, 日}` `<可选>`
+
 > default: `{day: 5, year: 2019, month: 10}`
 
 - type: Func
@@ -189,8 +195,8 @@
 
 #### homepage
 
-> https://github.com/funky-tiger/canvas-sign/blob/master/README.md
+> https://github.com/funky-tiger/tiger-calendar/blob/master/README.md
 
 #### issues
 
-> https://github.com/funky-tiger/canvas-sign/issues
+> https://github.com/funky-tiger/tiger-calendar/issues
