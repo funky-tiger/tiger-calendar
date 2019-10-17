@@ -193,6 +193,11 @@
 />
 ```
 
+##### Tip
+
+- 1. 仅测试小程序端 其他端没有进行测试
+- 2. 目前仅支持 TS 项目
+
 #### homepage
 
 > https://github.com/funky-tiger/tiger-calendar/blob/master/README.md
