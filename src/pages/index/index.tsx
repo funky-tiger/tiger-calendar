@@ -1,7 +1,7 @@
 import Taro, { Component, Config } from "@tarojs/taro";
 import { View, Text } from "@tarojs/components";
-// import { Calendar } from "../../components";
-import { Calendar } from "tiger-calendar";
+import { Calendar } from "../../components";
+// import { Calendar } from "tiger-calendar";
 import styles from "./index.module.less";
 
 interface State {}

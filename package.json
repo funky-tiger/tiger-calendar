@@ -1,6 +1,6 @@
 {
   "name": "tiger-calendar",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "基于 Taro 小程序的自定义日历插件",
   "templateInfo": {
     "name": "default",
